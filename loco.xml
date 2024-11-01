@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="TopBar">
+  <domain name="topbar">
+    <project name="TopBar" slug="topbar">
+      <source>
+        <directory>.</directory>
+      </source>
+      <target>
+        <directory>languages</directory>
+      </target>
+      <template>
+        <file>languages/topbar.pot</file>
+      </template>
+    </project>
+  </domain>
+</bundle>
